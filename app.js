@@ -24,6 +24,10 @@ const items = [
   { name: "peacock", image: "peacock.jpg" },
   { name: "shark", image: "shark.jpg" },
   { name: "lion", image: "lion.jpg" },
+  { name: "camel", image: "camel.jpg" },
+  { name: "dog", image: "dog.jpg" },
+  { name: "eagle", image: "eagle.jpg" },
+  { name: "fish", image: "fish.jpg" },
 ];
 
 
